@@ -25,9 +25,6 @@ class MyApp extends StatelessWidget {
           primary: Colors.green,
           secondary: Colors.greenAccent,
         ),
-        textTheme: TextTheme(
-
-        )
       ),
       home: const Calculator(),
     );
